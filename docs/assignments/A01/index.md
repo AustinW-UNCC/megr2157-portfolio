@@ -75,6 +75,9 @@ This designer/s chose to go with the push button actuator instead of an older st
 
 ## Decide
 
+1. Homepage Identity -
+
+The homepage identity that I want to reflect the most is a professional who is organized, has all necessary information labeled and in a neat stack, such that anyone could navigate that without much previous GitHub experience. To accomplish this, I decided to keep the page simplified which will allow people who maybe haven't used the website much to navigate it with relative ease. However, I did want it to still maintain a professional look, so I made sure that there is a neat order to each and every one of the tabs and channels. I am also a new user myself and have spent hours confused on exactly how all of this works, so, I have tried to make it in a way that anyone could clearly see my intentions, whether I were to succeed or fail in the process. 
 
 ## Communicate
 
