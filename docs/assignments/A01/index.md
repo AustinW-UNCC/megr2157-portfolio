@@ -79,5 +79,13 @@ This designer/s chose to go with the push button actuator instead of an older st
 
 The homepage identity that I want to reflect the most is a professional who is organized, has all necessary information labeled and in a neat stack, such that anyone could navigate that without much previous GitHub experience. To accomplish this, I decided to keep the page simplified which will allow people who maybe haven't used the website much to navigate it with relative ease. However, I did want it to still maintain a professional look, so I made sure that there is a neat order to each and every one of the tabs and channels. I am also a new user myself and have spent hours confused on exactly how all of this works, so, I have tried to make it in a way that anyone could clearly see my intentions, whether I were to succeed or fail in the process. 
 
+2. An intentional change -
+
+I decided to add a description to my homepage as I thought that it would be useful and hopefully inspiring to a future viewer who may be experiencing the same thing that I am now. The functional reason here is to give readers a basis for the foundation of my understanding and for them to understand where I am starting at before being able to see the immense progress that I plan to make over this semester. I believe that if a student in the next year happens to see that I started with 0 knowledge just how they might be, that it could give them some comfort and hope as they follow along a similar journey. 
+
+3. The Standard -
+
+With every assignment you see me submit this semester, there will be visual improvement with each and every one. What I mean by this is that YOU, the reader, will notice major upgrades in the quality of uploads each time you click onto a new section. 
+
 ## Communicate
 
