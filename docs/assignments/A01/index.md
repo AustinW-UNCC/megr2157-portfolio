@@ -42,13 +42,36 @@ C. Photographs of the components and how they affect the mechanical function of 
 
 <img width="1512" height="2016" alt="IMG_0094" src="https://github.com/user-attachments/assets/3224affa-6289-4d4b-8541-92cbe84f2a00" />
 
+Component #1 - The outer housing/shell 
+
 This picture shows the outer housing in which the other components will be inside of. The housing shown here is the protective layer and the mounting point for the other two components. This component provides stability for all mechanical functions of the product while providing support from buckling under load. The shape of the outer housing provides a rounded surface for the parts to slide up and down inside of and allows for movement where necessary to dispense the graphite rods. Along with this, the tapered area on the housing allows for a more natural and comfortable feel to the person using the product, especially in extended use situations. 
 
 <img width="1512" height="2016" alt="IMG_0095 (1)" src="https://github.com/user-attachments/assets/00a95270-3de0-4ca5-b464-41059b2ec497" />
 
 Component #2 - The push button Actuator
 
-The geometry of this open-ended rectangular box allows for precise fitment inside of the housing and for perfect fitment onto the internal plunger part of the system. This design and shape provide smooth transition from force being applied to the outside of the button into linear momentum on the inside of the housing. This allows 
+The geometry of this open-ended rectangular box allows for precise fitment inside of the housing and for perfect fitment onto the internal plunger part of the system. This design and shape provide smooth transition from force being applied to the outside of the button into linear momentum on the inside of the housing. This allows for a precise and controlled amount of graphite rod to be dispensed at any given time. 
+
+<img width="1512" height="2016" alt="IMG_0096 (2)" src="https://github.com/user-attachments/assets/29892a66-0fd0-4a94-aa43-e964d269f8bf" />
+
+Component #3 - The Plunger and Chuck 
+
+The small cylindrical shaped white center piece of this entire design is the plunger and chuck piece. This piece is a long, round rod with umbrella shaped pieces at the top and in the middle that react with the push button actuator to push the graphite rod downwards and eventually out of the bottom of the pencil. The plunger part of this component provides a place for the push button to grip on to and allows that ergonomical force to be transformed into linear force downwards. The chuck part of this is what holds on the graphite rod at the bottom of the plunger rod, and it only opens when the push button actuator helps expand the bottom part of the rod which releases the grip on the graphite piece temporarily allowing it to be moved downward and out of the housing/shell. 
+
+Part D - Patent information 
+
+Patent # US11084318B2
+Authors - Hetal Kurani and Humal Kurani
+
+I. Similar solutions that provide the same primary function - 
+
+1. A twist/rotating mechanism - This type uses an internal spiral groove and is pushed down using the top of the pencil in order to spin the groove, forcing graphite downwards which each push.
+
+2. A clutch: Drafting Pencil - This pencil design uses a clutch that completely opens up the grip on the graphite and allows the rod to fall freely using gravity instead of any forcible movement downwards. Usually, these are more heavy-duty types of pencils used for artistry or drawings.
+
+II. One design decision from the original designer - 
+
+This designer/s chose to go with the push button actuator instead of an older style design such as the pencils that require you to push down from the top, where the eraser is. They chose to go with this design because the force transfer from having the button in the middle of the pencil is much more direct and involves fewer moving parts than the older design. I believe they made this choice because it provides more stability in the pencil as there will be a much smaller moment caused by the action of pushing the button than there would be when using the top of the pencil. 
 
 ## Decide
 
