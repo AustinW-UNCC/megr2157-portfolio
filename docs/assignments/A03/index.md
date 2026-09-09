@@ -91,3 +91,6 @@ I believe that the length of the bar will have to be longer in order to achieve 
 After doing the calculations, I was right, the new length of the bar will need to be 79.52 inches in order to achieve the same amount of the deflection
 
 Solid Works part here - 
+
+https://github.com/AustinW-UNCC/megr2157-portfolio/releases/download/SolidWorksA03/A03.SolidWorks.Part.SLDPRT
+
