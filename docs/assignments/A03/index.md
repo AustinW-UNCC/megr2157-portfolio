@@ -92,5 +92,7 @@ After doing the calculations, I was right, the new length of the bar will need t
 
 Solid Works part here - 
 
+I am still working on how to make the link downloadable from the portfolio page, but if you copy and paste this link into an empty browser it will automatically download the necessary file. Hopefully by next assignment I will be able to have that link slightly easier to access !! 
+
 https://github.com/AustinW-UNCC/megr2157-portfolio/releases/download/SolidWorksA03/A03.SolidWorks.Part.SLDPRT
 
