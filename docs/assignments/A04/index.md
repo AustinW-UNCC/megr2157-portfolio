@@ -92,7 +92,9 @@ The last step of the project was to make an engineering drawing of the part with
 
 The .PDF would only upload as a link and not an image. When I tried to screenshot it the image came out very bright and hard to see so I figured that this would be the best option. 
 
+Here is the downloadable link to my SolidWorks part !!!!!!!
 
+https://github.com/AustinW-UNCC/megr2157-portfolio/releases/download/SolidWorksA04/Motor.Mount.-.A04.SLDPRT
 
 
 
