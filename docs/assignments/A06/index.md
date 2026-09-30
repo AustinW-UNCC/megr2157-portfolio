@@ -105,7 +105,7 @@ Link to CAD drawings and designs -
 
 https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Part%202%20A6.SLDPRT
 
-
+https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/A6%20Bracket.SLDDRW
 
 
 
