@@ -103,5 +103,10 @@ By dimensioning and tolerancing a drawing, you are telling the manufacturer how 
 
 Link to CAD drawings and designs - 
 
+https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Part%202%20A6.SLDPRT
+
+
+
+
 
 
