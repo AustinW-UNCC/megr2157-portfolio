@@ -107,6 +107,6 @@ https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Part%202%20A6.SLDPR
 
 https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/A6%20Bracket.SLDDRW
 
-
+https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Part%202%20A6.SLDDRW
 
 
