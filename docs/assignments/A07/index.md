@@ -86,6 +86,8 @@ medium mesh -
 
 Design 1 data - 
 
+<img width="476" height="212" alt="image" src="https://github.com/user-attachments/assets/e3fb82cd-90a0-477e-84fb-41e750dd2d84" />
+
 Thoughts about my design - 
 
 For design 1, the high amount of stress worried me because it implies that I must've calculated something wrong, which means that this may be a harder process than I originally imagined. However, once I changed the mesh, the stress severely lowered which tells me that it is likely a sharp edge or corner that is creating a severe stress concentration. That is what I expect to address first in my next design. The stress was concentrated right where the vertical bar meets with the round pole. That is where my main focus will be going for the next iteration. 
@@ -131,16 +133,109 @@ Fine Mesh -
 
 D2 - Resulting Data 
 
+<img width="514" height="254" alt="image" src="https://github.com/user-attachments/assets/0e23fcac-f0c6-40fb-bbd5-7bd830b5a5a2" />
+
+Thoughts on my design - 
+
 This design helped create a major change in the maximum stress felt by the original bracket. I believe that by making the transition between parts smoother, it got rid of the stress concentration that was causing such a huge issue before. This bracket stayed relatively consistent throughout the 3 meshes and I am very happy with the results. 
 
+Design 3 - 
+
+For the third design, I decided to focus on weight loss for the bracket since the stress and displacement are no longer an issue. I decided to make cut outs in each section of the bracket to maintain the symmetry while also taking away unecessary material. 
+
+<img width="482" height="478" alt="image" src="https://github.com/user-attachments/assets/7c21bd05-9d5d-43d4-aaa1-4a603cd28a59" />
+
+D3-1 
+
+Course mesh - 
+
+<img width="641" height="452" alt="image" src="https://github.com/user-attachments/assets/ff3b384c-f129-4f23-97b7-f7e995fe2a4d" />
+
+<img width="614" height="475" alt="image" src="https://github.com/user-attachments/assets/d27a363f-0d44-4dc8-894e-ce70a7266c1d" />
+
+<img width="721" height="479" alt="image" src="https://github.com/user-attachments/assets/768fc9d5-3cef-4cfd-828c-2585d4f01e73" />
+
+D3-2
+
+Medium Mesh - 
+
+<img width="671" height="463" alt="image" src="https://github.com/user-attachments/assets/9d761c55-7423-4d6c-be32-271a5704b254" />
+
+<img width="680" height="456" alt="image" src="https://github.com/user-attachments/assets/b274a0c4-ac9f-448b-b3f8-24dc48e84589" />
+
+<img width="638" height="455" alt="image" src="https://github.com/user-attachments/assets/baaad4ba-af2a-47a5-b046-c557b939f686" />
+
+D3-3 
+
+Fine mesh - 
+
+<img width="653" height="468" alt="image" src="https://github.com/user-attachments/assets/88de5506-44e5-4e44-ac7c-cc2d8b632658" />
+
+<img width="725" height="479" alt="image" src="https://github.com/user-attachments/assets/80c9d746-20a6-4c0c-9697-61cd14653747" />
+
+<img width="680" height="460" alt="image" src="https://github.com/user-attachments/assets/64066b6b-1a73-4bef-96e7-57f34a396f9d" />
+
+Resulting Data - 
+
+<img width="518" height="257" alt="image" src="https://github.com/user-attachments/assets/b39a8315-08b7-4792-b0f9-d637c65827e6" />
+
+Thoughts on my design - 
+
+This rendition was very intriguing due to the extra weight loss in the bracket; however, I notice that the stress is starting to creep back up towards a negative direction, which would imply that I should find another way to save weight if I were to continue this design process. Since I still have a massive factory of safety, I believe that there is no need to keep going with the design process and I will end it here with a successfully made bracket. 
+
+lessons learned - 
+
+Reflecting on this assignment, I feel like I have a better understanding on why engineers make certain choices in the design process. I have always looked at it like "why don't engineers think about x, y, and z when making parts", but the truth behind it is, they do. Sometimes it is just not feasible to make the parts via the manufacturing process or due to cost and time restraints. An example of this I learned making my bracket. I could spend weeks continuously making the bracket better but in a real world scenario, this would be extremely cost effective for a part that likely doesn't need this much overengineering. Sometimes engineers have to make decisions for the betterment of the company rather than for the people who install and work with the parts. What I mean by that is this, if it takes 10 extra minutes to install, but saves 2 days and thousands of dollars in time and manufacturing, then the tradeoff is worth it to spend the extra few minutes on the install. 
+
+2157 Students Only - 
+
+objective - complete the process above for the link that we made as well. 
+
+Initial Design - 
+
+<img width="206" height="421" alt="image" src="https://github.com/user-attachments/assets/bb2a3944-81b4-4515-8aff-60ca3ede74d2" />
+
+here are the applied loads on the link
+
+<img width="296" height="218" alt="image" src="https://github.com/user-attachments/assets/0e26fc1c-bb30-4c5c-aa46-7ca46422e200" />
+
+L1-1 
+
+Coarse mesh - 
+
+<img width="382" height="478" alt="image" src="https://github.com/user-attachments/assets/5471476b-8b8b-4add-81b8-8e1e462fe0f8" />
+
+<img width="374" height="458" alt="Screenshot 2026-10-21 185905" src="https://github.com/user-attachments/assets/06cba11f-25c3-4403-aade-dcdb8fef2e46" />
+
+<img width="380" height="460" alt="image" src="https://github.com/user-attachments/assets/38ce0199-6211-46c1-9f8e-b85c0a048c54" />
+
+Medium Mesh - 
+
+<img width="411" height="469" alt="image" src="https://github.com/user-attachments/assets/5d7c61d5-cf29-4a8b-a5d7-11ed4fc34a8a" />
+
+<img width="380" height="449" alt="Screenshot 2026-10-21 190236" src="https://github.com/user-attachments/assets/6f0d65b1-3254-4a63-a036-3adc17f5b943" />
 
 
+<img width="365" height="454" alt="image" src="https://github.com/user-attachments/assets/1c7df8bc-4886-4423-a510-2ea708a4b050" />
+
+Fine Mesh - 
 
 
+<img width="418" height="459" alt="image" src="https://github.com/user-attachments/assets/22513fc8-65ef-437c-b0b2-713c6ffc180f" />
 
 
+<img width="388" height="452" alt="image" src="https://github.com/user-attachments/assets/df7bfa8b-6ab9-445c-8be8-c207a6ab9d96" />
 
 
+<img width="379" height="482" alt="image" src="https://github.com/user-attachments/assets/5d15b584-d318-40a0-ba49-b092a4797b97" />
+
+Thoughts on the design - 
+
+Based on the result of this FEA, I would have to say that there is no engineering need or reason to adjust this linkage as it comes no where near the limit of stress, strain, displacement, or the factor of safety. Along with it being very easy and simple to manufacture, there is no reason to continue making new designs for this result as they all converge as required by the assignment at this point. 
+
+I spent about 8 hours on this project and I wish I had chosen to start working on it sooner, not because I didn't have enough time, but rather, there are questions that I wish I could ask about whether I did certain things correctly or not. I genuinely believe that I did this to the best of my ability in the time given, but next time I will try to meet with Dr. Fagan to ask since I am unsure if the way that I applied my loads and fixed geometries was even correct. 
+
+CAD Files - 
 
 
 
