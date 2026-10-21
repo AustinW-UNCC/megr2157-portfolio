@@ -237,8 +237,9 @@ I spent about 8 hours on this project and I wish I had chosen to start working o
 
 CAD Files - 
 
+[Bracket Revision 2](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/A6%20Bracket%20D2.SLDPRT)
 
-
+[Bracket Revision 3](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/A6%20Bracket%20D3.SLDPRT)
 
 
 
