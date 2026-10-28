@@ -113,16 +113,47 @@ Final assembly with all parts inside the gearbox. (The outer casing was left off
 
 <img width="481" height="472" alt="Screenshot 2026-10-28 161900" src="https://github.com/user-attachments/assets/00be5813-28a3-40f2-b65e-9d80e668ae05" />
 
+Parametric Modeling Picture - 
+
+<img width="506" height="140" alt="image" src="https://github.com/user-attachments/assets/9371adb7-fe97-4074-8a33-9a82957dbb7f" />
+
 CAD Files for the assembly  - 
 
-[Gearbox Assembly] - 
+[Gearbox Assembly](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/gearbox%20assembly.SLDASM)
 
+Lessons Learned - 
 
+The main thing that I learned throughout this project was how gear teeth are made, work together, and how the original design for the shape of them came to be. During the assignment process, I was able to use my prior knowledge of making a gear box in SolidWorks to quickly make the actual part in the CAD program, however I learned a lot about how torsional effects are taken into account based on the desired rpm of a shaft. I expected that we would just base the gears off of a minimum rpm count to determine material and force, but I was actually given a specific rpm to follow, and the gear ratio and the material had to be based solely off of that, along with the journal bearings. 
 
+MEGR 2157 Only - 
 
+Input Shaft - 
 
+<img width="809" height="607" alt="image" src="https://github.com/user-attachments/assets/fd12a618-6a41-44bb-988d-e7cc64f31abe" />
 
+Output Shaft - 
 
+<img width="798" height="611" alt="image" src="https://github.com/user-attachments/assets/4e25ccd9-6b74-45bb-8a35-f33e7ebe2308" />
+
+Pinion gear - 
+
+<img width="611" height="472" alt="image" src="https://github.com/user-attachments/assets/e66dbbc1-922b-467f-8fc5-179641fc4355" />
+
+Large Gear - 
+
+<img width="623" height="492" alt="image" src="https://github.com/user-attachments/assets/a441259e-a56f-40aa-8581-e929264ffd42" />
+
+Output Bearing - 
+
+<img width="542" height="425" alt="image" src="https://github.com/user-attachments/assets/b9575d8a-b2de-4a03-b4c0-32f6008d5454" />
+
+Input Bearing - 
+
+<img width="538" height="415" alt="image" src="https://github.com/user-attachments/assets/5e6a5895-c6c5-4a69-b94e-702ac2fdb007" />
+
+Assembly - 
+
+<img width="584" height="449" alt="image" src="https://github.com/user-attachments/assets/980c0c82-716d-448c-b923-97bb42301d7c" />
 
 
 
