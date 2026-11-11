@@ -1,6 +1,6 @@
 # A10 – Lead Screw Translating System
 
-Parametric Modeling - Austin 
+Parametric Modeling - Austin Williams 
 
 Crosshead Design: 
 
