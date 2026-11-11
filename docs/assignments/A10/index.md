@@ -52,7 +52,8 @@ This final picture shows the flange, screws, and the nut that were required for 
 
 CAD Files - 
 
-[CAD Files Here](
+[CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
+
 Lessons Learned - 
 
 The main lessons that I learned from my part in this group project was how assembly's work together in SolidWorks. I have made them before and had to troubleshoot issues, but at the same time, this type of assembly was new, and I learned a lot about how to read into what the error codes mean based on what they are trying to tell me. The design part was not terrible, but I spent hours working online with YouTube videos and AI help to understand why I was getting certain error codes. This knowledge will help me greatly in the future because now I know how to start designing certain features that are planned to be put into assemblies. 
