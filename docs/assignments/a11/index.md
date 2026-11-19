@@ -76,4 +76,78 @@ Optimization Pass -
 
 [CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
 
+Lessons Learned - Throughout this assignment I learned how to better assemble things in SolidWorks, how to create split lines to get the fixture geometry and forces onto odd faces. I failed many times trying to get the parts to fit together so I had to make new couplings and other parts. I also learned new ways to help me run simulations and new ways to speed up those simulations runs through trial and error. 
 
+## Motor Selection and Attachments Logan Sulyi
+
+After some research, I chose the StepperOnline 34HS59-6004S NEMA 34 stepper motor for this assignment. Each lead screw needs 17.2 in·lbf (1.94 N·m) at 1 kN across 0.157-7.87 rpm. The speed-torque curve starts at 100 rpm, and the motor produces 6.6 N·m.
+
+<img width="1256" height="566" alt="image" src="https://github.com/user-attachments/assets/d555600a-e6a8-4734-982a-82d51c168516" />
+<img width="1240" height="506" alt="image" src="https://github.com/user-attachments/assets/0a006d77-5bcc-4e96-955b-265d20b4d283" />
+
+
+## Motor Bracket Logan Sulyi
+
+The bracket carries the 17.2 in·lbf torque into the frame on the motor's 69.6 mm square pattern. Each bolt loads the plate with roughly 2.2 lbf. Using the bearing stress formula and 6061-T6 Aluminum, we found the minimum plate thickness to be 0.0011 in. Obviously, we aren't using this for our thickness because it is far too small.
+
+<img width="3539" height="3569" alt="AdobeExpressPhotos_c29c55898d824185a10263028c9f67cc_CopyEdited" src="https://github.com/user-attachments/assets/ba579d0d-978c-40c0-b3ad-9aaded4a9bea" />
+
+## Coupler Design Logan Sulyi
+
+The coupler is made of 1045 cold-drawn steel, with a 14 mm diameter to fit the motor shaft. Setting the shear stress equal to the allowable shear stress gives a minimum outer diameter of 14.17 mm and a wall thickness of 0.085 mm, with a stress of 73.8 MPa. Once again, the thickness is too small, so we will use a larger value.
+
+<img width="3001" height="3498" alt="IMG_3704" src="https://github.com/user-attachments/assets/0f2e12c4-aa80-43d3-b88d-de4a55c118ee" />
+
+
+## Bracket Design  Logan Sulyi
+
+Both motors turn the same way, which equals 2T = 3.89 N·m for the 1 kN force per screw. I drew the bracket as a bending rectangular beam. Using the maximum bending equation and using 6061-T6 aluminum, it gives 7.2 MPa for an 80 mm width and 14.5 MPa for a 40 mm width,
+
+<img width="3064" height="3941" alt="IMG_3705" src="https://github.com/user-attachments/assets/e6132dbb-6209-40a6-aaf1-02f075508dd9" />
+
+## Bill of Materials Logan Sulyi
+
+Below is a bill of materials for the entire project, including the entire assembly and the cost of labor.
+<img width="484" height="566" alt="image" src="https://github.com/user-attachments/assets/0bfa7ff4-3f61-4920-9b9c-30971860bcf1" />
+<img width="492" height="194" alt="image" src="https://github.com/user-attachments/assets/bf21360a-9574-461e-93f8-9e29d9b67d65" />
+<img width="524" height="166" alt="image" src="https://github.com/user-attachments/assets/766de0f7-2160-46f9-8993-b7750253330b" />
+
+
+## Lessons Learned Logan Sulyi
+
+I learned even more about the assembly tool in SolidWorks. I didn't directly make them, but helped my group members do so. I thought it was super cool when, including the motor and the bracket, it did a pattern and added the other motor on the other side of the top frame. I was going to do that manually, but SolidWorks did so once I mated the bracket and motor together the first time.
+I spent about 5 hours on my portion of this assignment. (10 across both)
+
+## Motor Mount Design (Nathaneal)
+
+<img width="619" height="746" alt="image" src="https://github.com/user-attachments/assets/05a0a73b-2f1f-48a8-98c5-19b67545362d" />
+
+<img width="1432" height="585" alt="image" src="https://github.com/user-attachments/assets/0ac75c0c-6bd3-42cc-902e-759945ea13b3" />
+
+Here is the motor we selected in a SolidWorks file as well as the part drawing with dimensions included off the website.
+
+<img width="956" height="838" alt="image" src="https://github.com/user-attachments/assets/06aeacd1-5726-4dc4-8a9f-5c93fb6d5ea5" />
+
+<img width="369" height="329" alt="image" src="https://github.com/user-attachments/assets/bc79551f-1ada-49d8-a473-c8618c779f5c" />
+
+<img width="1053" height="1044" alt="image" src="https://github.com/user-attachments/assets/f6798317-501d-4c39-9672-fa8eb0888b3e" />
+
+To start with the motor mount model I made a square base of 86mm by 86mm and extruded it to 10mm thick. I then made the shaft hole and an indention for the outer ring of the top. I made the shaft hole a 16mm diameter because the diameter of the shaft is 14mm and we want a snug fit but enough room to spin. I made the indention of the ring a little tighter tolerance because it needs to fit smoothly to the front surface of the motor.
+
+<img width="1079" height="891" alt="image" src="https://github.com/user-attachments/assets/d469df90-578a-417b-808b-33512886fdea" />
+
+Next I made the screw holes going off the dimensions of the drawing and creating a hole through all.
+
+<img width="1010" height="726" alt="image" src="https://github.com/user-attachments/assets/3e4c3b1b-c28f-4b6d-8f66-9a9f90e7c598" />
+
+Lastly I added fillets to all the outer corners with a radius of 4.5mm to match the face of the motor and keep it smooth.
+
+<img width="870" height="892" alt="image" src="https://github.com/user-attachments/assets/335c381b-1c5a-4b41-819d-ed4d24f290d4" />
+
+<img width="1025" height="410" alt="image" src="https://github.com/user-attachments/assets/4c8192ad-9ff0-48d5-a808-764dcea9bf26" />
+
+To test the fitments and clearances I ran a quick assembly to make sure everything looked good and fit properly.
+
+<img width="555" height="459" alt="image" src="https://github.com/user-attachments/assets/2b70ec34-f98c-440f-a354-52b1c6c6cdb1" />
+
+Here is the motor and motor mount mated to the assembly.
