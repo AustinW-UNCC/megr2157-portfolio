@@ -74,5 +74,6 @@ Optimization Pass -
 
 2. Critical Shift - Again, for this part of the frame, there were no shifts in critical locations or point along the frame where connections are. If there were critical shifts, the connections could be taking on more stress and end up failing due to unexpected load. The only part that I was originally worried about was the flex in the middle causing stress on the connection points, but then I realized that the endpoints will be connected to the other part of the frame and they will provide extra support so where the sidebar will not even have the same amount of flex as seen in the other pictures. 
 
+[CAD Files Here](https://github.com/AustinW-UNCC/megr2157-portfolio/blob/main/Final%20Assembly%20A10.SLDASM)
 
 
